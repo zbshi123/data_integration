@@ -1,0 +1,5 @@
+/kafka_flink/out
+/kafka_flink/target
+/kafka_flink/.idea
+/kafka_flink/kafka_flink.iml
+/kafka_flink/META-INF
